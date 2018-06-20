@@ -1,0 +1,6 @@
+[package]
+name = "rust-ewma"
+version = "0.1.0"
+authors = ["Preetam Jinka <open-source@preet.am>"]
+
+[dependencies]
