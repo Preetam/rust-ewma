@@ -1,4 +1,4 @@
-struct EWMA {
+pub struct EWMA {
     val: f64,
     alpha: f64,
 }
