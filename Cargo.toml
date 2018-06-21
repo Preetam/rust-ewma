@@ -1,7 +1,7 @@
 [package]
 name = "ewma"
 description = "Exponentially weighted moving average implementation"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Preetam Jinka <open-source@preet.am>"]
 repository = "https://github.com/Preetam/rust-ewma"
 license = "MIT"
